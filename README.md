@@ -17,7 +17,3 @@ poetry add psutil rich curses
 # Run app
 python3 main.py
 ```
-
-## References
-
-{references}
